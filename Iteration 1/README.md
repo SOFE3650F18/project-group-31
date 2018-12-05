@@ -33,3 +33,6 @@ We will be refining the backend of the CMS system.
 
 ![](img1.png)
 
+### Step 7: Perform analysis of current design and review iteration goal and design objectives
+
+![](img2.png)
