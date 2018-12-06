@@ -44,3 +44,9 @@ Elements within the front-end package are decided upon below. While they conform
 While the Business (Server) Layer is not part of the MVC structure of the front-end, it is included to provide insight on the interfaces that are required by the httpService component.
 
 ![https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%202/Iteration2Diagram.png?raw=true](https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%202/Iteration2Diagram.png?raw=true)
+
+### Step 7: Perform analysis of current design and review iteration goal and design objectives
+
+An analysis is shown below in the form of the Kanban Board. In addition to the design decisions solidified through iteration 1, the design decisions that impacted the selected drivers can be seen to have aptly addressed those drivers.
+
+![https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%202/KanbanSnapshot.png?raw=true](https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%202/KanbanSnapshot.png?raw=true)
