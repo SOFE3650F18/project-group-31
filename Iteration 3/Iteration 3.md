@@ -38,3 +38,6 @@ We will be refining the database tier and the security components of the CMS Sys
 A deployment diagram was used because we feel it best captures the security measures that must be placed. This idea was taken from the Book "Designing Software Approached - A Practical Approach" by Cervantes.
 ![https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%203/DeploymentDiagram.png?raw=true](https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%203/DeploymentDiagram.png?raw=true)
 
+### Step 7: Perform analysis of current design and review iteration goal and design objectives
+The use cases were updated as they relate to the Quality attributes. At iteration 3, all of the use cases, Constraints, and Quality Attributes had been addressed.
+![https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%203/KanbanSnapshot2.PNG?raw=true](https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%203/KanbanSnapshot2.PNG?raw=true)
