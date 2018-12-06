@@ -34,4 +34,7 @@ We will be refining the database tier and the security components of the CMS Sys
 | The server tier will have a **downtimeAlert** module, which will alert clients when outages will occur. | This architectural element will only interface with the client tier and accomplishes QA-4 and QA-5, ensuring there is no unexpected downtime. |
 | The server tier will have an **attackResponse** security module, which will respond to attacks by removing access to the database. | This architectural element will interface with the attackDetection module as well as the database tier. This fully realizes QA-1 and QA-8. |
 
+### Step 6: Sketch views and record design decisions
+A deployment diagram was used because we feel it best captures the security measures that must be placed. This idea was taken from the Book "Designing Software Approached - A Practical Approach" by Cervantes.
+![https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%203/DeploymentDiagram.png?raw=true](https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%203/DeploymentDiagram.png?raw=true)
 
