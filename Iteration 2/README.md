@@ -6,6 +6,6 @@ The goal of this iteration is to achieve architectural concern CNR-2. This will 
 - QA-3 (Performance)
 - QA-6 (Security)
 - QA-7 (Interoperability)
-- CRN-1
+- CNR-2
 - CON-1
 - CON-2
