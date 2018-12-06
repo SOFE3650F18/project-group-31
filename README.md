@@ -19,5 +19,6 @@
 - Teams Focus: 5.0, Focused well
 
 
-Disclaimer: While contributions on github may differ, most of the work was done on Google Drive prior to uploading to github, and a Trello board was used (for Kanban). Upon evaluating drivers, we verified that all of the ones on the Trello board were where we'd expect them to be, and then responded by moving them in google issues. In essense, we had a draft and a final version of each iteration. Google doc access can be found using https://docs.google.com/document/d/1MR2EPgR0Pm1t3ax5NeWNzWRlMYc4X9M-usDYib4iWTU/edit. 
+## Disclaimer 
+While contributions on github may differ, most of the work was done on Google Drive prior to uploading to github, and a Trello board was used (for Kanban). Upon evaluating drivers, we verified that all of the ones on the Trello board were where we'd expect them to be, and then responded by moving them in google issues. In essense, we had a draft and a final version of each iteration. Google doc access can be found using https://docs.google.com/document/d/1MR2EPgR0Pm1t3ax5NeWNzWRlMYc4X9M-usDYib4iWTU/edit. 
 This route was taken because github is not suited for handling PDF insertions/deletions, and markdown isn't intended to write reports in.
