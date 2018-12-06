@@ -35,3 +35,12 @@ This is a specific development effort for the client-side module of the deployab
 | A single page is rendered, and what can be accessed is additionally restricted by a *Service module that handles authorization and encryption called the **authService** component | This will help ensure that QA-1 is satisfied, by restricting access to pages that the user does not have access to. Even if the server-side application does not serve any information to unauthorized users, the structure of the frontend may still provide hints towards possible security flaws. |
 | The DomManipulation module interfaces with the independent modules for each user to change the browser render | This will ensure that QA-2 and QA-3 are realized. Alternative is to hardcode these behaviors, but they are less secure and are far more expensive to implement. |
 | The Student, Lecturer and Administration modules are implemented with views and logic manipulators for each user respectively. They are responsible interfacing with the DomManipulation module that renders the html, and will implement some basic business logic. | This addresses all of the use cases with the exception of UC17 and UC18, which are largely implemented in the previous iteration. |
+
+
+### Step 6: Sketch views and record design decisions
+
+Elements within the front-end package are decided upon below. While they conform to Angular 6 component or service definitions, components that are packaged as part of angular are also included if they are relevant to the selected drivers.
+
+While the Business (Server) Layer is not part of the MVC structure of the front-end, it is included to provide insight on the interfaces that are required by the httpService component.
+
+![https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%202/Iteration2Diagram.png?raw=true](https://github.com/SOFE3650F18/project-group-31/blob/master/Iteration%202/Iteration2Diagram.png?raw=true)
